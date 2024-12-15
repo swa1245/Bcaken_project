@@ -128,7 +128,7 @@ http://localhost:3000/api/users/signup
 ### 3. Book Creation (Authors)
 ```http
 POST /api/books/create
-Authorization: Bearer eyJhbGciOiJIU...
+Authorization: Bearer eyJhbGciOiJI...
 Content-Type: application/json
 
 {
@@ -155,7 +155,7 @@ Response:
 ### 3. Borrow Book
 ```http
 POST /api/reader/books/borrow
-Authorization: Bearer eyJhbGciOiJIU...
+Authorization: Bearer eyJhbGciOiJI...
 Content-Type: application/json
 
 {
@@ -168,6 +168,22 @@ Response:
   "message": "Book borrowed successfully"
 }
 ```
+
+## Screenshots
+
+### User Interface
+![Login Screen](images/Screenshot%20(624).png)
+![Dashboard](images/Screenshot%20(625).png)
+![Book Management](images/Screenshot%20(626).png)
+
+### Features
+![Search Function](images/Screenshot%20(627).png)
+![User Profile](images/Screenshot%20(628).png)
+![Book Details](images/Screenshot%20(629).png)
+
+### Admin Panel
+![Admin Dashboard](images/Screenshot%20(630).png)
+![Statistics](images/Screenshot%20(631).png)
 
 ## Live Demo
 [Check out the live demo](https://your-demo-url.com) *(Coming Soon)*
