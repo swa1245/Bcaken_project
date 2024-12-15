@@ -252,10 +252,6 @@ Your Name - [@your_twitter](https://twitter.com/your_twitter)
 
 Project Link: [https://github.com/swa1245/Bcaken_project](https://github.com/swa1245/Bcaken_project)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
-
 ---
 ⭐️ If you found this project helpful, please consider giving it a star!
 
