@@ -185,8 +185,7 @@ Response:
 ![Admin Dashboard](images/Screenshot%20(630).png)
 ![Statistics](images/Screenshot%20(631).png)
 
-## Live Demo
-[Check out the live demo](https://your-demo-url.com) *(Coming Soon)*
+
 
 
 ## Testing
